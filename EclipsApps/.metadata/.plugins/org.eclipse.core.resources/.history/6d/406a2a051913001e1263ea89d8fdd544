@@ -1,0 +1,5 @@
+package com.taraktech.hql01.entities;
+
+public class Employee {
+
+}

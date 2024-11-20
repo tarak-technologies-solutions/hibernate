@@ -1,0 +1,12 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="model.Employee" table="employee007" schema="system"> 
+ 		<cache usage="read-write"/>
+ 		<id name="eid"				column="eid"/>
+ 		<property name="ename"		column="ename" length="30" not-null="true"/>
+        <property name="email"		column="email" length="40" not-null="true" unique="true"/>
+        <property name="salary"		column="salary" length="7" not-null="true"/>
+    </class>   
+</hibernate-mapping>

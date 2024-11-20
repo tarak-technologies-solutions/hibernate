@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.taraktech.app01.entities.Employee"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
+    <fullyQualifiedTypeName name="com.taraktech.app02.entities.factory.HibernateFactory"/>
+    <fullyQualifiedTypeName name="com.taraktech.app02.utilities.HibernateUtility"/>
+    <fullyQualifiedTypeName name="com.taraktech.app02.entities.Employee"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.services.EmployeeService"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.dao.EmployeeDao"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.entities.Employee"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.utility.HibernateUtility"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.dao.EmployeeDaoImpl"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="com.taraktech.app03.services.EmployeeServiceImpl"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="com.taraktech.aoo04.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="com.taraktech.aoo04.entities.Employee"/>
+    <fullyQualifiedTypeName name="com.taraktech.app05.entities.Employee"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistryBuilder"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistryBuilder"/>
+    <fullyQualifiedTypeName name="com.taraktech.hql01.entities.Employee"/>
+</qualifiedTypeNameHistroy>
